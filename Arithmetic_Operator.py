@@ -57,6 +57,7 @@ def restartChoice():#Choices for restarting code...
 #Start of Code...
 print("This is a Basic Arithmetic Operator")
 print ("Do you want to perform Arithmetic Operations")
+print("Please note that the choices are case-sensitive, please use CAPITAL letters,\n Thank You")
 print("Press 'Y' for Yes, or 'N' for No.")
 userwish = input()
 if userwish == "Y":
